@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#user-login-form {
+    padding: 30px;
+}
+
+.form-field {
+    margin: 15px;
+
+}
+.form-field input {
+    height: 32px;
+    outline: none;
+    border: 1px solid #e3e3e3;
+}
+button {
+    padding: 6px 20px;
+    margin-left: 15px;
+}
+
