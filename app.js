@@ -82,6 +82,8 @@ async function renderUsers(usersArray) {
 
 
 
+
+
 function userActions(){
   // 1. ცხრილში ღილაკებზე უნდა მიამაგროთ event listener-ები
 
@@ -133,6 +135,8 @@ async function getUser(userId) {
     console.log('Error - ', e);
   }
 }
+
+
 
 
 async function deleteUser(userId) {
